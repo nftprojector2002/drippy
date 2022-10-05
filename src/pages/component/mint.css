@@ -1,0 +1,48 @@
+.bg-first {
+  background-image: url("../../../public/asset/gradient backgrounds/gradient1.png");
+}
+
+.-translate-x-21 {
+  --tw-translate-x: -85px;
+}
+
+.-translate-x-85px {
+  --tw-translate-x: -85px;
+}
+
+.translate-x-225px {
+  --tw-translate-x: -325px;
+}
+
+.-translate-y-150px
+{
+  --tw-translate-y: -150px;
+}
+
+.translate-x-325px {
+  --tw-translate-x: 325px;
+}
+
+.-translate-x-325px {
+  --tw-translate-x: 285px;
+}
+
+.translate-y-150px {
+  --tw-translate-y: 150px;
+}
+
+.translate-x-224px {
+  --tw-translate-x: 224px;
+}
+
+.translate-y-250px {
+  --tw-translate-y: 250px;
+}
+
+.translate-y-275px {
+  --tw-translate-y: 275px;
+}
+
+.roadmap-list-disc {
+  list-style-type: disc;
+}

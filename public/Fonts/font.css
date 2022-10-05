@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "Groovy";
+  src: local("Groovy"),
+    url("./Groovy Special.ttf") format("truetype");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "Macaria";
+  src: local("Macaria"),
+    url("./Macaria.ttf") format("truetype");
+  font-weight: bold;
+}
+
+.font-groovy {
+  font-family: "Groovy";
+}
+
+.font-macaria {
+  font-family: "Macaria";
+}
