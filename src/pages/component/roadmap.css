@@ -1,0 +1,39 @@
+.translate-y-19rem {
+  --tw-translate-y: 19rem;
+}
+
+.translate-y-100px {
+  --tw-translate-y: 100px;
+}
+
+.translate-x-400px {
+  --tw-translate-x: 100%;
+}
+
+.translate-y-670px {
+  --tw-translate-y: 670px;
+}
+
+
+
+.w-48rem {
+  width: 48rem;
+}
+.h-48rem {
+  height: 48rem;
+}
+
+
+@media only screen and (min-width: 1024px) {
+  /* styles for browsers larger than 960px; */
+
+  .translate-y-250 {
+    --tw-translate-y: 250px;
+  }
+  
+  .translate-y-150 {
+    --tw-translate-y: 150px;
+  }
+
+    
+}

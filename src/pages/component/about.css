@@ -1,0 +1,23 @@
+.top-65rem {
+  top: 65rem;
+}
+
+@media only screen and (min-width: 1024px) {
+  /* styles for browsers larger than 960px; */
+  .top-30rem {
+    top: 30rem !important;
+  }
+
+  .top-78rem {
+    top: 78rem !important;
+  }
+  .top-96rem {
+    top: 96rem;
+  }
+  
+  .top-116rem {
+    top: 116rem;
+  }
+  
+}
+

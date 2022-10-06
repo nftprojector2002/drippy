@@ -2,8 +2,41 @@
   background-image: url("../../../public/asset/gradient backgrounds/gradient1.png");
 }
 
-.-translate-x-21 {
-  --tw-translate-x: -85px;
+@media only screen and (min-width: 1024px) {
+  /* styles for browsers larger than 960px; */
+  .-translate-x-21 {
+    --tw-translate-x: -85px !important;
+  }
+
+  .translate-y-275px {
+    --tw-translate-y: 275px !important;
+  }
+
+
+  .translate-x-325px {
+    --tw-translate-x: 325px !important;
+  }
+
+  .md-visible {
+    visibility: visible !important;
+  }
+
+  .-translate-y-150px {
+    --tw-translate-y: -150px !important;
+  }
+  
+
+}
+
+@media only screen and (max-width: 1023px) {
+  /* styles for browsers larger than 960px; */
+  ._hidden {
+    visibility: hidden !important;
+  }
+
+  .-translate-y-100px {
+    --tw-translate-y: -100px !important;
+  }
 }
 
 .-translate-x-85px {
@@ -13,34 +46,25 @@
 .translate-x-225px {
   --tw-translate-x: -325px;
 }
-
-.-translate-y-150px
-{
-  --tw-translate-y: -150px;
-}
-
-.translate-x-325px {
-  --tw-translate-x: 325px;
-}
-
 .-translate-x-325px {
   --tw-translate-x: 285px;
-}
-
-.translate-y-150px {
-  --tw-translate-y: 150px;
 }
 
 .translate-x-224px {
   --tw-translate-x: 224px;
 }
 
-.translate-y-250px {
-  --tw-translate-y: 250px;
+.-translate-y-150px
+{
+  --tw-translate-y: -150px;
 }
 
-.translate-y-275px {
-  --tw-translate-y: 275px;
+.translate-y-150px {
+  --tw-translate-y: 150px;
+}
+
+.translate-y-250px {
+  --tw-translate-y: 250px;
 }
 
 .roadmap-list-disc {
